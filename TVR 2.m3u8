@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:24,Kanal D HD
+#EXTVLCOPT:network-caching=1000
+https://p9.magicplaces.eu/kanald/video.m3u8?token=55bb966ed6f077b187fb2177e257d10dbe6303a3-269a72f2f99801ccb7a983b250cee57c-1735415045-1735404245&remote=no_check_ip
+#EXTINF:24,PRO TV HD
+#EXTVLCOPT:network-caching=1000
+https://p13.magicplaces.eu/protv/video.m3u8?token=558c9aa2318a23bcdc24793c44cbfe645fc8c844-9fcda1c4d1db8341c7b6728dea5899ae-1735415306-1735404506&remote=no_check_ip
+#EXTINF:24,Antena 1 HD
+#EXTVLCOPT:network-caching=1000
+https://p9.magicplaces.eu/antena1/video.m3u8?token=589716bce7ba2fbab4d027db55a9adef73ff334c-88c7425ac653aecd100c0841a409b959-1735415397-1735404597&remote=no_check_ip
+#EXTINF:24,PRIMA TV HD
+#EXTVLCOPT:network-caching=1000
+https://p11.magicplaces.eu/prima/video.m3u8?token=85272701b01745c094f3c1d2560e61d31cbae025-ed44755fcc20c913f94b00635e3b7463-1735415436-1735404636&remote=no_check_ip
+#EXTINF:24,TVR1 HD
+#EXTVLCOPT:network-caching=1000
+https://p11.magicplaces.eu/tvr1hd/video.m3u8?token=3938ad555960ede0d77b32fe3c707f8f0546aa31-360fba0561e72e58f0a3e8ecceb004d2-1735415469-1735404669&remote=no_check_ip
+#EXTINF:24,TVR 2
+#EXTVLCOPT:network-caching=1000
+https://p11.magicplaces.eu/tvr2sd/video.m3u8?token=8e668be406f00f935c22f41a5bf7f11e7664ef31-777f35a746090c8c3fd4b0be7a12dae7-1735415502-1735404702&remote=no_check_ip
